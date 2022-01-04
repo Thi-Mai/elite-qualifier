@@ -1,13 +1,13 @@
 # Title
-Simple (or clever and funny?) description
+Simple autocorrect program.
 ## Table of Contents
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
 ## Background
-This is why this application exists.
+Elite 101 qualifier project.
 ## Install
-These are the steps o setup your local enviroment to run this.
+Can be run on replit.
 ## Usage
-These are the steps to use the application or interact with it.
+Click the run button and a prompt will appear in the right side window.
 ### Any optional sections
