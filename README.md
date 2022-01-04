@@ -10,4 +10,3 @@ Elite 101 qualifier project.
 Can be run on replit.
 ## Usage
 Click the run button and a prompt will appear in the right side window.
-### Any optional sections
