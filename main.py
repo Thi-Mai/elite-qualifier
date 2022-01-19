@@ -55,10 +55,10 @@ def suggest(text, all_words):
           suggestions.clear()
           suggestions.append(word)
 
-    print("Suggestion(s): " + str(suggestions))
-    print()
+    return (suggestions)
+    #print()
 
-def main():
+def main_program():
     all_words = load_words()
     print('Type some text, or type \"QUIT\" to stop')
     while True:
@@ -66,7 +66,7 @@ def main():
         if ('QUIT' == text):
           print("Thank you for using my autocorrect!")
           break
-        suggest(text, all_words)
+        print(suggest(text, all_words))
 
 if __name__ == "__main__":
-    main()
+    main_program()
